@@ -92,6 +92,10 @@ section img#font {
     z-index: 10;
 }
 
+section img#cloud {
+    opacity: 0.3;
+}
+
 section img#sun {
     mix-blend-mode: screen;
     height: auto;
